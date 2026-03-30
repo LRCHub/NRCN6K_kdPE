@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ぶっちゃけてフォーユー",
+  "base_artist": "フランシュシュ",
+  "createdAt": "2026-03-30T11:44:45.603324Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぶっちゃけてフォーユー",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/01_ぶっちゃけてフォーユー_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぶっちゃけてフォーユー (TV size)",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/02_ぶっちゃけてフォーユー_(TV_size)_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ぶっちゃけてフォーユー",
+      "artist": "FranChouChou",
+      "has_synced": true,
+      "path": "select/03_ぶっちゃけてフォーユー_FranChouChou.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ぶっちゃけてフォーユー",
+      "artist": "フランシュシュ (本渡楓, 田野アサミ, 種田梨沙, 河瀬茉希, 衣川里佳, 田中美海)",
+      "has_synced": true,
+      "path": "select/04_ぶっちゃけてフォーユー_フランシュシュ_(本渡楓,_田野アサミ,_種田梨沙,_河瀬茉希,_衣川里佳,_田中美海).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぶっちゃけてフォーユー",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/pl_01_ぶっちゃけてフォーユー_フランシュシュ.txt"
+    }
+  ]
+}
